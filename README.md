@@ -13,3 +13,4 @@ lien readme c#
 lien readme sql
 ![Capture4](https://user-images.githubusercontent.com/71081511/94029097-bfb1c900-fdbc-11ea-8e0b-d486cd95c52b.PNG)
 
+yo im big boy with big muscles
